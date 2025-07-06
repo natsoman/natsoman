@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kostas Natsopoulos</h1>
-<h3 align="center">a software engineer based on Athens, Greece!</h3>
+<h3 align="center">a backend software engineer!</h3>
 <p align="center">
   <a href="#" style="pointer-events: none; color: inherit; text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=linux,bash,go,kafka,mongo,mysql,postgres,redis,aws,docker,k8s,grafana&theme=light" />
