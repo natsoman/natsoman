@@ -2,7 +2,7 @@
 <h3 align="center">a backend software engineer!</h3>
 <p align="center">
   <a href="#" style="pointer-events: none; color: inherit; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linux,bash,go,kafka,mongo,mysql,postgres,redis,aws,docker,k8s,grafana&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,go,php,kafka,mongo,mysql,postgres,redis,aws,docker,k8s,grafana&theme=light" />
   </a>
 </p>
 
